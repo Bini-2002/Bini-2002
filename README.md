@@ -1,4 +1,4 @@
-# Hi, I'm Biniyam 👋
+# <p align = "center"> Hi, I'm Biniyam 👋</p>
 
 ## 👨‍💻 About Me
 
