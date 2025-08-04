@@ -19,7 +19,7 @@ I am a results-driven web developer with a focus on building robust, scalable, a
 
 ## 🛠️ Skills
 
-<div justif-items = "space-between">
+<div justif-content = "space-between">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" />
