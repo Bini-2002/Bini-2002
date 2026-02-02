@@ -71,16 +71,19 @@ I am a results-driven developer focused on the **entire web development lifecycl
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- 
-     IMPORTANT: If these images are broken, your username "Bini-2002" is incorrect. 
-     Please verify your GitHub URL bar.
-  -->
   <a href="https://github.com/Bini-2002">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bini-2002&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="160" alt="Biniyam's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bini-2002&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="Top Languages" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Bini-2002&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=21600"
+      height="160"
+      alt="Biniyam's GitHub Stats"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bini-2002&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=21600"
+      height="160"
+      alt="Top Languages"
+    />
   </a>
 </div>
-
 ---
 
 ## 📫 Let's Connect
