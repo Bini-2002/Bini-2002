@@ -25,7 +25,7 @@ I am a results-driven developer focused on the **entire web development lifecycl
 
 ---
 
-## 🚀 Technical Arsenal
+## 🚀 Technical Skills
 
 <table align="center">
   <tr>
