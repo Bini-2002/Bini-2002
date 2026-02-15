@@ -73,12 +73,12 @@ I am a results-driven developer focused on the **entire web development lifecycl
 <div align="center">
   <a href="https://github.com/Bini-2002">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Bini-2002&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=21600"
+      src="https://github-readme-stats-q3lmjoaa0-biniyam-getachews-projects.vercel.app/api?username=Bini-2002&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=21600"
       height="160"
       alt="Biniyam's GitHub Stats"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bini-2002&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=21600"
+      src="https://github-readme-stats-q3lmjoaa0-biniyam-getachews-projects.vercel.app/api/top-langs/?username=Bini-2002&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=21600"
       height="160"
       alt="Top Languages"
     />
