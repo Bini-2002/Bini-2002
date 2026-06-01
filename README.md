@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1f35,60:0d2137,100:0d1117&height=200&section=header&text=Biniyam%20Getachew&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20React&descSize=18&descAlignY=60&descColor=8b949e&stroke=58a6ff&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1f35,60:0d2137,100:0d1117&height=220&section=header&text=Biniyam%20Getachew&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20React%20%7C%20Next.js&descSize=18&descAlignY=60&descColor=8b949e&stroke=58a6ff&strokeWidth=1" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+Building+scalable+backends+with+FastAPI;%E2%9A%9B%EF%B8%8F+Crafting+dynamic+UIs+with+React;%F0%9F%90%8D+Python+specialist+%26+API+architect;%F0%9F%90%B3+Containerizing+everything+with+Docker;%E2%9C%A8+Writing+clean%2C+maintainable+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1100&color=58A6FF&center=true&vCenter=true&width=680&lines=%F0%9F%9A%80+Architecting+scalable+backends+with+FastAPI+%26+Django;%E2%9A%9B%EF%B8%8F+Building+dynamic+UIs+with+React+%26+Next.js;%F0%9F%90%8D+Python+specialist+%26+REST+API+architect;%F0%9F%8E%A8+Designing+pixel-perfect+UIs+in+Figma+%2B+Tailwind;%F0%9F%90%B3+Containerizing+everything+with+Docker;%F0%9F%8D%83+Wrangling+PostgreSQL%2C+MongoDB+%26+SQLite;%E2%9C%A8+Writing+clean%2C+maintainable%2C+production-grade+code" alt="Typing SVG" />
 
 </div>
 
@@ -30,39 +30,45 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="58%">
 
 ```python
 class Biniyam:
     name     = "Biniyam Getachew"
     role     = "Full Stack Developer"
-    location = "Ethiopia 🇪🇹"
+    location = "Addis Ababa, Ethiopia 🇪🇹"
 
     languages  = ["Python", "JavaScript", "SQL"]
-    frameworks = ["FastAPI", "Django", "React"]
-    databases  = ["PostgreSQL", "SQLite"]
+    backend    = ["FastAPI", "Django"]
+    frontend   = ["React", "Next.js", "Tailwind CSS"]
+    databases  = ["PostgreSQL", "MongoDB", "SQLite"]
     devops     = ["Docker", "CI/CD", "Linux"]
+    design     = ["Figma", "UI/UX Prototyping"]
+    auth       = ["JWT", "OAuth2", "RBAC"]
 
     philosophy = """
     I don't just write code —
-    I design solutions that scale.
+    I architect solutions that scale.
     """
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something great.")
+        print("Thanks for visiting! Let's build.")
 ```
 
 </td>
-<td width="45%">
+<td width="42%">
 
 ### 🎯 What I Focus On
 
-🔷 **Scalability** — Systems designed to grow  
-🔶 **Performance** — Optimized at every layer  
-🔷 **Security** — JWT/OAuth, best practices  
-🔶 **Clean Code** — Readable & maintainable  
-🔷 **UX** — Seamless, responsive frontends  
-🔶 **DevOps** — Containerized & automated  
+🔷 **Scalability** — Async APIs & distributed systems designed to grow under real traffic, not just demos
+
+🔶 **Security-First** — JWT, OAuth2, RBAC, and input validation baked in from day one — not bolted on after
+
+🔷 **Full-Stack Fluency** — From Figma wireframes to Next.js + Tailwind frontends to FastAPI backends — I own the whole stack
+
+🔶 **Data Mastery** — PostgreSQL for relational integrity, MongoDB for flexible document stores — right tool, right problem
+
+🔷 **DevOps Mindset** — Dockerized services, CI/CD pipelines, and Linux-native workflows for consistent, reproducible deployments
 
 <br/>
 
@@ -85,15 +91,21 @@ class Biniyam:
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎯 Design
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -107,7 +119,7 @@ class Biniyam:
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,react,js,html,css,docker,git,linux,vscode&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mongodb,react,nextjs,tailwind,figma,js,html,css,docker,git,linux,vscode&perline=8&theme=dark" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -188,15 +200,13 @@ class Biniyam:
 ### 💬 Open to:
 ![Freelance](https://img.shields.io/badge/💼_Freelance-Open-58a6ff?style=flat-square&labelColor=0d1117)
 ![Collaboration](https://img.shields.io/badge/🤝_Collaboration-Open-58a6ff?style=flat-square&labelColor=0d1117)
-![Open_Source](https://img.shields.io/badge/🌍_Open_Source-Open-58a6ff?style=flat-square&labelColor=0d1117)
-![Opportunities](https://img.shields.io/badge/🚀_Opportunities-Open-58a6ff?style=flat-square&labelColor=0d1117)
+![Open_Source](https://img.shields.io/badge/🌍_Open_Source-Active-3fb950?style=flat-square&labelColor=0d1117)
+![Opportunities](https://img.shields.io/badge/🚀_Opportunities-Open-f0883e?style=flat-square&labelColor=0d1117)
 
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=58a6ff&animation=twinkling&fontAlignY=65" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f35&height=80&section=footer&fontColor=58a6ff" />
 </div>
